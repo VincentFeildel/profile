@@ -9,19 +9,19 @@ body {
 
 h1, h2, h3 {
   color: rgb(30, 30, 30);
-}
-
-h1 {
-  font-size: 25px;
-}
-
-h2 {
-  font-size: 22px;
   font-family: Raleway;
 }
 
+h1 {
+  font-size: 23px;
+}
+
+h2 {
+  font-size: 19px;
+}
+
 h3 {
-  font-size: 20px;
+  font-size: 17px;
 }
 
 a  {
